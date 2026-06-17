@@ -1,0 +1,14 @@
+numpy<2.0
+scipy>=1.11,<1.14
+sentence-transformers
+langchain-groq
+pypdf
+langchain-huggingface
+langchain-pinecone
+langchain-community
+langchain-text-splitters
+ragas
+datasets
+pandas
+python-dotenv
+torch
